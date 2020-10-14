@@ -3,6 +3,7 @@
         "categories": "Categories",
         "addresses": "addresses",
         "ads": "ads",
+        "church": "church",
         "collection agency": "collection agency",
         "commerce": "commerce",
         "credit agency": "credit agency",
@@ -460,6 +461,7 @@
     "categories": {
         "addresses": "addresses",
         "ads": "ads",
+        "church": "church",
         "collection agency": "collection agency",
         "commerce": "commerce",
         "credit agency": "credit agency",
